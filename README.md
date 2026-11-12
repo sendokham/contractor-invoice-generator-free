@@ -51,9 +51,11 @@ Yes. You can add your Venmo handle, PayPal link, or Cash App tag, and the genera
 
 ---
 
-* **Zero-Paywall Competitor Comparisons**:
+* **Zero-Paywall Competitor Comparisons & Trade Templates**:
   * [Invoice Simple Alternative (Save $21.99/mo)](https://contractorinvoice.live/invoice-simple-alternative/)
   * [FreshBooks Alternative for Trades](https://contractorinvoice.live/freshbooks-alternative/)
-  * [Electrician Invoice Template](https://contractorinvoice.live/electrician-invoice-template/) · [Plumber](https://contractorinvoice.live/plumber-invoice-template/) · [HVAC](https://contractorinvoice.live/hvac-invoice-template/)
+  * [Wave Invoicing Alternative (Save $192/yr)](https://contractorinvoice.live/wave-invoicing-alternative/)
+  * [QuickBooks Self-Employed Alternative ($0/mo)](https://contractorinvoice.live/quickbooks-self-employed-alternative/)
+  * [Electrician Invoice Template](https://contractorinvoice.live/electrician-invoice-template/) · [Plumber](https://contractorinvoice.live/plumber-invoice-template/) · [HVAC](https://contractorinvoice.live/hvac-invoice-template/) · [Roofing](https://contractorinvoice.live/roofing-invoice-template/) · [Handyman](https://contractorinvoice.live/handyman-invoice-template/) · [General Contractor](https://contractorinvoice.live/general-contractor-invoice-template/)
 
 © 2026 [ContractorInvoice.live](https://contractorinvoice.live/). All rights reserved. Commercial Web Utility.
