@@ -59,3 +59,9 @@ Yes. You can add your Venmo handle, PayPal link, or Cash App tag, and the genera
   * [Electrician Invoice Template](https://contractorinvoice.live/electrician-invoice-template/) · [Plumber](https://contractorinvoice.live/plumber-invoice-template/) · [HVAC](https://contractorinvoice.live/hvac-invoice-template/) · [Roofing](https://contractorinvoice.live/roofing-invoice-template/) · [Handyman](https://contractorinvoice.live/handyman-invoice-template/) · [General Contractor](https://contractorinvoice.live/general-contractor-invoice-template/)
 
 © 2026 [ContractorInvoice.live](https://contractorinvoice.live/). All rights reserved. Commercial Web Utility.
+
+
+## 🛠️ Free Contractor Job-Site Utilities
+
+- **[Contractor Payment Receipt Generator](https://contractorinvoice.live/contractor-payment-receipt/)** — Issue instant Paid-in-Full or Partial Progress receipts with remaining balance calculation.
+- **[Subcontractor Lien Waiver Generator](https://contractorinvoice.live/subcontractor-lien-waiver/)** — Draft 4 statutory construction lien waivers (Conditional/Unconditional Progress and Final) with retainage protection.
